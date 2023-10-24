@@ -1,4 +1,5 @@
 ** NOTICE ** If you use or extend this code, please cite our work using the following citation.
+
 Q. Wang, Z. Pang, W. Liang, J. Zhang, K. Wang and Y. Yang, "Spatiotemporal Gradient-Based Physical-Layer Authentication Enhanced by CSI-to-Image Transformation for Industrial Mobile Devices," in IEEE Transactions on Industrial Informatics, doi: 10.1109/TII.2023.3316178.
 
 # the-STG-PLA-algorithms
