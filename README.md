@@ -1,6 +1,8 @@
 ** NOTICE ** If you use or extend this code, please cite our work using the following citation.
 
-Q. Wang, Z. Pang, W. Liang, J. Zhang, K. Wang and Y. Yang, "Spatiotemporal Gradient-Based Physical-Layer Authentication Enhanced by CSI-to-Image Transformation for Industrial Mobile Devices," in IEEE Transactions on Industrial Informatics, doi: 10.1109/TII.2023.3316178.
+Q. Wang, Z. Pang, W. Liang, J. Zhang, K. Wang and Y. Yang, "Spatiotemporal Gradient-Based Physical-Layer Authentication Enhanced by CSI-to-Image Transformation for Industrial Mobile Devices," in IEEE Transactions on Industrial Informatics, vol. 20, no. 3, pp. 4236-4245, March 2024, doi: 10.1109/TII.2023.3316178.
+
+keywords: {Programmable logic arrays;Authentication;Correlation;Feature extraction;Spatiotemporal phenomena;Reliability;Scattering;Channel-state information (CSI);industrial mobile devices;physical-layer authentication (PLA)},
 
 # the-STG-PLA-algorithms
 This is the code of my STG-PLA algorithms and this work has been published on IEEE Transactions on Industrial Informatics with a link: https://ieeexplore.ieee.org/document/10286234
